@@ -1,0 +1,3 @@
+/home/miko/Documents/personal/interview_assessment/build/CMakeFiles/rebuild_cache.dir
+/home/miko/Documents/personal/interview_assessment/build/CMakeFiles/edit_cache.dir
+/home/miko/Documents/personal/interview_assessment/build/CMakeFiles/interview_assessment.dir

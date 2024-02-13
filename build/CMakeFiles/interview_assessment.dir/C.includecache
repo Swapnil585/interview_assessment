@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miko/Documents/personal/interview_assessment/interview_assessment.c
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+unistd.h
+-
+
